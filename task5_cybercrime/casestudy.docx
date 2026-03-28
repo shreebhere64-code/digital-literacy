@@ -1,0 +1,9 @@
+Cybercrime Case Study +IBM Online UPI Fraud
+
+Online UPI fraud is a common cybercrime where attackers trick users into sending money through fake payment requests or messages. This type of fraud is increasing due to the widespread use of digital payment applications.
+
+In a typical case, a person receives a message or phone call claiming to be from a bank or payment service. The attacker may send a UPI collect request and ask the user to approve it for receiving money. Many users do not understand this and approve the request, which results in money being transferred from their account instead of receiving it.
+
+In some cases, fraudsters also send fake QR codes or links and ask users to scan or click them. Once the user enters their details or approves the payment, the money is lost.
+
+This case shows that lack of awareness about digital payments can lead to financial loss. Users should always verify payment requests and understand how UPI transactions work before taking any action.

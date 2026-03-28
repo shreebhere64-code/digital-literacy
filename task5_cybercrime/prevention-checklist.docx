@@ -1,0 +1,12 @@
+UPI and Cybercrime Prevention Tips
+
+1. Never approve unknown UPI payment requests.
+2. Always read payment message carefully before confirming.
+3. Do not scan QR codes sent by unknown people.
+4. Do not trust calls claiming to be from bank officials.
+5. Never share OTP, PIN, or account details.
+6. Use secure and official payment applications only.
+7. Check transaction details before completing payment.
+8. Avoid clicking on suspicious payment links.
+9. Enable mobile banking alerts for all transactions.
+10. Immediately report fraud to cybercrime.gov.in or call 1930.
