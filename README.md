@@ -46,10 +46,10 @@ The repository is divided into the following sections:
 
 ## 🔗 Important Links
 
-GitHub Profile:https://github.com/shreebhere64-code
-LinkedIn:https://www.linkedin.com/in/shreyash-bhere-a9b69437b/  
-HackerRank: https://www.hackerrank.com/profile/shreyash_25bce11 
-Google Form:https://docs.google.com/forms/d/e/1FAIpQLSeekKUcPTBsxhkwEAIa2-XGw6_JxRshfLhBLWDE4etrOPk9Qg/viewform?usp=publish-editor 
+* GitHub Profile:https://github.com/shreebhere64-code
+* LinkedIn:https://www.linkedin.com/in/shreyash-bhere-a9b69437b/  
+* HackerRank: https://www.hackerrank.com/profile/shreyash_25bce11 
+* Google Form:https://docs.google.com/forms/d/e/1FAIpQLSeekKUcPTBsxhkwEAIa2-XGw6_JxRshfLhBLWDE4etrOPk9Qg/viewform?usp=publish-editor 
 
 ---
 
